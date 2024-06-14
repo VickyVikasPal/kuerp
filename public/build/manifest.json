@@ -1,0 +1,330 @@
+{
+  "public/assets/fonts/OpenSansBold.eot": {
+    "file": "assets/OpenSansBold-1464bcd7.eot",
+    "src": "public/assets/fonts/OpenSansBold.eot"
+  },
+  "public/assets/fonts/OpenSansBold.svg": {
+    "file": "assets/OpenSansBold-c15c8b8d.svg",
+    "src": "public/assets/fonts/OpenSansBold.svg"
+  },
+  "public/assets/fonts/OpenSansBold.ttf": {
+    "file": "assets/OpenSansBold-bf2606ee.ttf",
+    "src": "public/assets/fonts/OpenSansBold.ttf"
+  },
+  "public/assets/fonts/OpenSansBold.woff": {
+    "file": "assets/OpenSansBold-596ee3ba.woff",
+    "src": "public/assets/fonts/OpenSansBold.woff"
+  },
+  "public/assets/fonts/OpenSansBold.woff2": {
+    "file": "assets/OpenSansBold-37788dc7.woff2",
+    "src": "public/assets/fonts/OpenSansBold.woff2"
+  },
+  "public/assets/fonts/OpenSansExtraBold.eot": {
+    "file": "assets/OpenSansExtraBold-61297c2d.eot",
+    "src": "public/assets/fonts/OpenSansExtraBold.eot"
+  },
+  "public/assets/fonts/OpenSansExtraBold.svg": {
+    "file": "assets/OpenSansExtraBold-82eeb61d.svg",
+    "src": "public/assets/fonts/OpenSansExtraBold.svg"
+  },
+  "public/assets/fonts/OpenSansExtraBold.ttf": {
+    "file": "assets/OpenSansExtraBold-2a4f0e53.ttf",
+    "src": "public/assets/fonts/OpenSansExtraBold.ttf"
+  },
+  "public/assets/fonts/OpenSansExtraBold.woff": {
+    "file": "assets/OpenSansExtraBold-42f9f4bd.woff",
+    "src": "public/assets/fonts/OpenSansExtraBold.woff"
+  },
+  "public/assets/fonts/OpenSansExtraBold.woff2": {
+    "file": "assets/OpenSansExtraBold-492235c0.woff2",
+    "src": "public/assets/fonts/OpenSansExtraBold.woff2"
+  },
+  "public/assets/fonts/OpenSansLight.eot": {
+    "file": "assets/OpenSansLight-c8b6fb66.eot",
+    "src": "public/assets/fonts/OpenSansLight.eot"
+  },
+  "public/assets/fonts/OpenSansLight.svg": {
+    "file": "assets/OpenSansLight-05701a38.svg",
+    "src": "public/assets/fonts/OpenSansLight.svg"
+  },
+  "public/assets/fonts/OpenSansLight.ttf": {
+    "file": "assets/OpenSansLight-7e097a16.ttf",
+    "src": "public/assets/fonts/OpenSansLight.ttf"
+  },
+  "public/assets/fonts/OpenSansLight.woff": {
+    "file": "assets/OpenSansLight-e52ee96d.woff",
+    "src": "public/assets/fonts/OpenSansLight.woff"
+  },
+  "public/assets/fonts/OpenSansLight.woff2": {
+    "file": "assets/OpenSansLight-9d895c00.woff2",
+    "src": "public/assets/fonts/OpenSansLight.woff2"
+  },
+  "public/assets/fonts/OpenSansRegular.eot": {
+    "file": "assets/OpenSansRegular-3b60202f.eot",
+    "src": "public/assets/fonts/OpenSansRegular.eot"
+  },
+  "public/assets/fonts/OpenSansRegular.svg": {
+    "file": "assets/OpenSansRegular-9fd65e9d.svg",
+    "src": "public/assets/fonts/OpenSansRegular.svg"
+  },
+  "public/assets/fonts/OpenSansRegular.ttf": {
+    "file": "assets/OpenSansRegular-93f5b954.ttf",
+    "src": "public/assets/fonts/OpenSansRegular.ttf"
+  },
+  "public/assets/fonts/OpenSansRegular.woff": {
+    "file": "assets/OpenSansRegular-5c2418f2.woff",
+    "src": "public/assets/fonts/OpenSansRegular.woff"
+  },
+  "public/assets/fonts/OpenSansRegular.woff2": {
+    "file": "assets/OpenSansRegular-00cdfd82.woff2",
+    "src": "public/assets/fonts/OpenSansRegular.woff2"
+  },
+  "public/assets/fonts/OpenSansSemiBold.eot": {
+    "file": "assets/OpenSansSemiBold-3ac6bf35.eot",
+    "src": "public/assets/fonts/OpenSansSemiBold.eot"
+  },
+  "public/assets/fonts/OpenSansSemiBold.svg": {
+    "file": "assets/OpenSansSemiBold-4f5483c0.svg",
+    "src": "public/assets/fonts/OpenSansSemiBold.svg"
+  },
+  "public/assets/fonts/OpenSansSemiBold.ttf": {
+    "file": "assets/OpenSansSemiBold-27d0a80e.ttf",
+    "src": "public/assets/fonts/OpenSansSemiBold.ttf"
+  },
+  "public/assets/fonts/OpenSansSemiBold.woff": {
+    "file": "assets/OpenSansSemiBold-4727fd76.woff",
+    "src": "public/assets/fonts/OpenSansSemiBold.woff"
+  },
+  "public/assets/fonts/OpenSansSemiBold.woff2": {
+    "file": "assets/OpenSansSemiBold-56191725.woff2",
+    "src": "public/assets/fonts/OpenSansSemiBold.woff2"
+  },
+  "public/assets/images/loginbg.jpg": {
+    "file": "assets/loginbg-a345aa73.jpg",
+    "src": "public/assets/images/loginbg.jpg"
+  },
+  "public/assets/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-cda59d6e.ttf",
+    "src": "public/assets/webfonts/fa-brands-400.ttf"
+  },
+  "public/assets/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-8ea87917.woff2",
+    "src": "public/assets/webfonts/fa-brands-400.woff2"
+  },
+  "public/assets/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-e8711bbb.ttf",
+    "src": "public/assets/webfonts/fa-regular-400.ttf"
+  },
+  "public/assets/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-e42a8844.woff2",
+    "src": "public/assets/webfonts/fa-regular-400.woff2"
+  },
+  "public/assets/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-af639750.ttf",
+    "src": "public/assets/webfonts/fa-solid-900.ttf"
+  },
+  "public/assets/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-9834b82a.woff2",
+    "src": "public/assets/webfonts/fa-solid-900.woff2"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-da32ecf8.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/fa-brands-400-8ea87917.woff2",
+      "assets/fa-brands-400-cda59d6e.ttf",
+      "assets/fa-regular-400-e42a8844.woff2",
+      "assets/fa-regular-400-e8711bbb.ttf",
+      "assets/fa-solid-900-9834b82a.woff2",
+      "assets/fa-solid-900-af639750.ttf",
+      "assets/OpenSansLight-c8b6fb66.eot",
+      "assets/OpenSansLight-9d895c00.woff2",
+      "assets/OpenSansLight-e52ee96d.woff",
+      "assets/OpenSansLight-7e097a16.ttf",
+      "assets/OpenSansLight-05701a38.svg",
+      "assets/OpenSansRegular-3b60202f.eot",
+      "assets/OpenSansRegular-00cdfd82.woff2",
+      "assets/OpenSansRegular-5c2418f2.woff",
+      "assets/OpenSansRegular-93f5b954.ttf",
+      "assets/OpenSansRegular-9fd65e9d.svg",
+      "assets/OpenSansSemiBold-3ac6bf35.eot",
+      "assets/OpenSansSemiBold-56191725.woff2",
+      "assets/OpenSansSemiBold-4727fd76.woff",
+      "assets/OpenSansSemiBold-27d0a80e.ttf",
+      "assets/OpenSansSemiBold-4f5483c0.svg",
+      "assets/OpenSansBold-1464bcd7.eot",
+      "assets/OpenSansBold-37788dc7.woff2",
+      "assets/OpenSansBold-596ee3ba.woff",
+      "assets/OpenSansBold-bf2606ee.ttf",
+      "assets/OpenSansBold-c15c8b8d.svg",
+      "assets/OpenSansExtraBold-61297c2d.eot",
+      "assets/OpenSansExtraBold-492235c0.woff2",
+      "assets/OpenSansExtraBold-42f9f4bd.woff",
+      "assets/OpenSansExtraBold-2a4f0e53.ttf",
+      "assets/OpenSansExtraBold-82eeb61d.svg",
+      "assets/loginbg-a345aa73.jpg"
+    ],
+    "css": [
+      "assets/app-da32ecf8.css"
+    ],
+    "dynamicImports": [
+      "resources/js/views/modules/CountryLists/metaview/metajs/SearchView.js",
+      "resources/js/views/modules/ReportAuths/metaview/metajs/SearchView.js",
+      "resources/js/views/modules/StateLists/metaview/metajs/SearchView.js",
+      "resources/js/views/modules/Taxtypes/metaview/metajs/SearchView.js",
+      "resources/js/views/modules/Branchs/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/BulkInventorys/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/Categorys/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/ClientMasters/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/CountryLists/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/DeliveryChallans/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/Invoices/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/Orders/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/Products/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/Purchases/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/Quotations/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/ReportAuths/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/Schedulers/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/StateLists/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/Taxtypes/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/UserDashlets/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/UserReports/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/UserRoles/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/Users/metaview/metajs/PopupField.js",
+      "resources/js/views/modules/VendorMasters/metaview/metajs/PopupField.js"
+    ],
+    "file": "assets/app-0c5c8121.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/views/modules/Branchs/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-180767ea.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/Branchs/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/BulkInventorys/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-8662b979.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/BulkInventorys/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/Categorys/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-bbb4d373.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/Categorys/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/ClientMasters/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-63101c65.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/ClientMasters/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/CountryLists/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-0dee5741.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/CountryLists/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/CountryLists/metaview/metajs/SearchView.js": {
+    "file": "assets/SearchView-aacef7a5.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/CountryLists/metaview/metajs/SearchView.js"
+  },
+  "resources/js/views/modules/DeliveryChallans/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-0c23ca01.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/DeliveryChallans/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/Invoices/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-456a0b50.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/Invoices/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/Orders/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-ca43ab84.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/Orders/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/Products/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-fe1bf821.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/Products/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/Purchases/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-6febf911.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/Purchases/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/Quotations/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-8f52f46a.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/Quotations/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/ReportAuths/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-984db519.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/ReportAuths/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/ReportAuths/metaview/metajs/SearchView.js": {
+    "file": "assets/SearchView-62fe8729.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/ReportAuths/metaview/metajs/SearchView.js"
+  },
+  "resources/js/views/modules/Schedulers/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-b1d01ede.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/Schedulers/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/StateLists/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-40b39f4a.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/StateLists/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/StateLists/metaview/metajs/SearchView.js": {
+    "file": "assets/SearchView-c491a18c.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/StateLists/metaview/metajs/SearchView.js"
+  },
+  "resources/js/views/modules/Taxtypes/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-5ee749f0.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/Taxtypes/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/Taxtypes/metaview/metajs/SearchView.js": {
+    "file": "assets/SearchView-5990c03a.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/Taxtypes/metaview/metajs/SearchView.js"
+  },
+  "resources/js/views/modules/UserDashlets/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-bfad6bc1.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/UserDashlets/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/UserReports/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-4472fc7e.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/UserReports/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/UserRoles/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-0db146a0.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/UserRoles/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/Users/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-2dd2836e.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/Users/metaview/metajs/PopupField.js"
+  },
+  "resources/js/views/modules/VendorMasters/metaview/metajs/PopupField.js": {
+    "file": "assets/PopupField-e4226fd0.js",
+    "isDynamicEntry": true,
+    "src": "resources/js/views/modules/VendorMasters/metaview/metajs/PopupField.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-cbf7c96c.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}

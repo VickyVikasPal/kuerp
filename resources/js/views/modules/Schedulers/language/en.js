@@ -1,0 +1,25 @@
+let language = {
+    "LBL_HOME":"Home",
+    "LBL_ADMIN":"Admin",
+    "LBL_ADD_SCHEDULERS":"Add Schedulers",
+    "LBL_VIEW_SCHEDULERS":"View Schedulers",
+    "LBL_BASIC_SETUP":"Basic Setup",
+    "LBL_JOB_NAME":"Job Name",
+    "LBL_JOB_STATUS":"Status",
+    "LBL_JOB":"Job",
+    "LBL_JOB_OR":"OR",
+    "LBL_INTERVAL":"Interval",
+    "LBL_EVERY":"Every",
+    "LBL_EVERY_DAY":"Every Day",
+    "LBL_MONDAY":"Monday",
+    "LBL_TUESDAY":"Tuesday",
+    "LBL_WEDNESDAY":"Wednesday",
+    "LBL_THURSDAY":"Thursday",
+    "LBL_FRIDAY":"Friday",
+    "LBL_SATURDAY":"Saturday",
+    "LBL_JOB_LOG":"Job Log",
+    "":"setting",
+    "":"setting",
+}
+
+export default language;

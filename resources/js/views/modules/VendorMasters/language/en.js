@@ -1,0 +1,26 @@
+let language = {
+    "LBL_HOME":"Home",
+    "LBL_VENDORMASTER": "Vendor Master",
+    "LBL_VENDORMASTER_VIEW": "View Vendor Master",
+    "LBL_VENDORMASTER_ADD": "Create Vendor Master",
+    "LBL_LANGUAGE": "This Is Language File",
+    "LBL_CATEGORY_NAME": "Category Name",
+    "LBL_STATUS": "Status",
+    "LBL_DATE_ENTERED":"Date Entered",
+    "LBL_DATE_MODIFY":"Date Modified",
+    "LBL_EDIT":"Edit",
+    "LBL_DELETE":"Delete",
+    "LBL_CUSTOMER_NAME":"Customer Name",
+    "LBL_FIRM_NAME":"Firm / Company Name",
+    "LBL_CONTACT_NO":"Contact No.",
+    "LBL_EMAIL_ID":"Email Id",
+    "LBL_GST_STATUS":"GST Status",
+    "LBL_GST_NUMBER":"GST Number",
+    "LBL_ADDRESS":"Address",
+    "LBL_AREA":"Area",
+    "LBL_STATE":"State",
+    "LBL_PIN":"Pin No.",
+    "LBL_VENDOR_ID":"Vendor_id",
+}
+
+export default language;

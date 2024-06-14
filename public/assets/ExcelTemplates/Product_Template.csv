@@ -1,0 +1,6 @@
+SNo,CategoryName,BrandName,ProductCode,ProductName,Qty,Unit,SalePrice,HSNCode,TaxType
+1,Filter,Hypower Brand,123/987456,Air filter Demo,10,Nos,590,123456,18
+2,Filter,Hypower,123/987456,Air filter,15,Nos,590,123456,18
+3,Filter,Hypower,123/987456,Air filter,20,Nos,590,123456,18
+4,Filter,Hypower Brand,123/987456,Air filter Demo,25,Nos,590,123456,18
+5,Filter,Hypower,123/987456,Air filter,30,Nos,590,123456,18

@@ -1,0 +1,27 @@
+let language = {
+    "LBL_ADMIN":"Admin",
+    "LBL_ADD_PRINT":"Add Print Size",
+    "LBL_VIEW_PRINT":"Available Print Size",
+    "LBL_CURRENT_SETTINGS":"New Current Settings",
+    "LBL_VIEW_CURRENT_SETTINGS":"View Current Settings",
+    "LBL_PRINT_SIZE":"Print Size",
+    "LBL_PRINT_OPTION":"Print Option ",
+    "LBL_PRINT_HEADER":"Print Header ?",
+    "LBL_PRINT_FOOTER":"Print Footer ?",
+    "LBL_TOP_MARGIN":"Top Margin",
+    "LBL_BOTTOM_MARGIN":"Bottom Margin",
+    "LBL_LEFT_MARGIN":"Left Margin",
+    "LBL_RIGHT_MARGIN":"Right Margin",
+    "LBL_HEADER_MARGIN":"Header Margin",
+    "LBL_FOOTER_MARGIN":"Footer Margin",
+    "LBL_BARCODE_MARGIN":"Barcode Margin",
+    "LBL_PRINT_SIZE_LIST":"Print Size List",
+    "LBL_PRINT_FILE":"Print File ",
+    "LBL_FROM_PDF":"From PDFs",
+    "LBL_FROM_SAVEPRINT":"From Save&Print ",
+    "LBL_GLOBAL_SEARCH":"Search",
+    "":"Settings",
+    "":"Settings",
+}
+
+export default language;

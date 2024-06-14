@@ -1,0 +1,1 @@
+import{l as e}from"./app-0c5c8121.js";const a={metaList:[{label:e.LBL_PRODUCT_NAME,link:!0,routePath:"categorys"},{label:e.LBL_PRODUCT_QTY,link:!1,routePath:"categorys"},{label:e.LBL_STATUS,link:!1,routePath:""}],columns:["name","product_qty","status"]};export{a as default};
