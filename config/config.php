@@ -457,7 +457,13 @@ return $laravel_config = array(
   'tin_no' => '',
   'tmp_dir' => 'cache/xml/',
   'translation_string_prefix' => false,
-  'twiliovideocall' => '',
+  'twiliovideocall' => 
+  array (
+    'account_sid' => 'AC4849fbca988ffa1a47069bcc3c2b9ce7',
+    'auth_token' => '8fe3a7b0245cdf568129f426e5293b61',
+    'api_key' => 'SKb74c90ab66b2cc8092d759e66a0d6826',
+    'api_secret' => 'Z1iQEKEgmilBNdMm4XZcbRkEGO3kkbie',
+  ),
   'unique_key' => '0db272e72648ffdec8c4c1c4659bf23d',
   'upload_badext' => 
   array (
